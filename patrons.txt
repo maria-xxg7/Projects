@@ -1,0 +1,45 @@
+4
+Brian Cutter
+101010
+River God
+Wilbur Smith
+662
+The Game
+Ken Dryden
+320
+Ender's Game
+Orson Scott Card
+324
+Philip J. Fry
+300030
+Ready Player One
+Ernest Cline
+374
+Ender's Game
+Orson Scott Card
+324
+The Maltese Falcon
+Dashiell Hammett
+213
+Clancy Wiggum
+888889
+Dirk Gently's Holistic Detective Agency
+Douglas Adams
+306
+The Maltese Falcon
+Dashiell Hammett
+213
+Empty
+Empty
+0
+Rick Grimes
+000001
+World War Z: An Oral History of the Zombie War
+Max Brooks
+342
+The Zombie Survival Guide: Complete Protection from the Living Dead
+Max Brooks
+270
+Married with Zombies
+Jesse Petersen
+253
